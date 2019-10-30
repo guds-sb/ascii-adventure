@@ -1,0 +1,6 @@
+const GudsConstants = {
+    SCREEN_TABLE_WIDTH: 65,
+    SCREEN_TABLE_HEIGHT: 19,
+    ASCII_IMAGE_WIDTH: 32,
+    ASCII_IMAGE_HEIGHT: 8
+};
